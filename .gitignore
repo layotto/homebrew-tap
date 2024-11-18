@@ -1,0 +1,14 @@
+*.log*
+.vscode
+.idea
+.test
+.out
+!./.gitignore
+.DS_Store
+
+# Idea
+*.iml
+
+# git
+*.orig
+
