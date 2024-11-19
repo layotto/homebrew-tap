@@ -8,8 +8,6 @@ class Layotto < Formula
   sha256 "9a6b10517d53d56513d72254a7638c39829b6b632cfe1fc621a7ccc11eb658b4"
   license "Apache-2.0"
 
-  end
-
   def install
     bin.install "layotto"
   end
